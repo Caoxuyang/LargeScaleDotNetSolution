@@ -1,0 +1,11 @@
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib018\bin\Debug\net10.0\Lib018.deps.json
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib018\bin\Debug\net10.0\Lib018.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib018\bin\Debug\net10.0\Lib018.pdb
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib018\obj\Debug\net10.0\Lib018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib018\obj\Debug\net10.0\Lib018.AssemblyInfoInputs.cache
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib018\obj\Debug\net10.0\Lib018.AssemblyInfo.cs
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib018\obj\Debug\net10.0\Lib018.csproj.CoreCompileInputs.cache
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib018\obj\Debug\net10.0\Lib018.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib018\obj\Debug\net10.0\refint\Lib018.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib018\obj\Debug\net10.0\Lib018.pdb
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib018\obj\Debug\net10.0\ref\Lib018.dll

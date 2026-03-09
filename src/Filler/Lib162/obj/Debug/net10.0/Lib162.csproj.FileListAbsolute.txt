@@ -1,0 +1,11 @@
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib162\bin\Debug\net10.0\Lib162.deps.json
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib162\bin\Debug\net10.0\Lib162.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib162\bin\Debug\net10.0\Lib162.pdb
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib162\obj\Debug\net10.0\Lib162.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib162\obj\Debug\net10.0\Lib162.AssemblyInfoInputs.cache
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib162\obj\Debug\net10.0\Lib162.AssemblyInfo.cs
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib162\obj\Debug\net10.0\Lib162.csproj.CoreCompileInputs.cache
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib162\obj\Debug\net10.0\Lib162.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib162\obj\Debug\net10.0\refint\Lib162.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib162\obj\Debug\net10.0\Lib162.pdb
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib162\obj\Debug\net10.0\ref\Lib162.dll

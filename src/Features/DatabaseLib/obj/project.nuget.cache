@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WlyXP17TKdo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xuycao\\dev\\demo\\poc\\big-solution-demo\\TestSolution\\src\\Features\\DatabaseLib\\DatabaseLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Nuget\\microsoft.data.sqlite\\9.0.0\\microsoft.data.sqlite.9.0.0.nupkg.sha512",
+    "C:\\Nuget\\microsoft.data.sqlite.core\\9.0.0\\microsoft.data.sqlite.core.9.0.0.nupkg.sha512",
+    "C:\\Nuget\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Nuget\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Nuget\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Nuget\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

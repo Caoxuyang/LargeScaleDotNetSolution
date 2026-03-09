@@ -1,0 +1,11 @@
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib117\bin\Debug\net10.0\Lib117.deps.json
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib117\bin\Debug\net10.0\Lib117.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib117\bin\Debug\net10.0\Lib117.pdb
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib117\obj\Debug\net10.0\Lib117.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib117\obj\Debug\net10.0\Lib117.AssemblyInfoInputs.cache
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib117\obj\Debug\net10.0\Lib117.AssemblyInfo.cs
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib117\obj\Debug\net10.0\Lib117.csproj.CoreCompileInputs.cache
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib117\obj\Debug\net10.0\Lib117.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib117\obj\Debug\net10.0\refint\Lib117.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib117\obj\Debug\net10.0\Lib117.pdb
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Filler\Lib117\obj\Debug\net10.0\ref\Lib117.dll

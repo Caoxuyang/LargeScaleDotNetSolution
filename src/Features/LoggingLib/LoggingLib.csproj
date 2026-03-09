@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>LargeScaleSolution.LoggingLib</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="log4net" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Abstractions\Abstractions.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>LargeScaleSolution.Filler.Lib140</RootNamespace>
+  </PropertyGroup>
+</Project>

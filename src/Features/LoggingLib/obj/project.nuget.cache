@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BsmntaQw7/Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xuycao\\dev\\demo\\poc\\big-solution-demo\\TestSolution\\src\\Features\\LoggingLib\\LoggingLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Nuget\\log4net\\3.0.1\\log4net.3.0.1.nupkg.sha512",
+    "C:\\Nuget\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Nuget\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Nuget\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

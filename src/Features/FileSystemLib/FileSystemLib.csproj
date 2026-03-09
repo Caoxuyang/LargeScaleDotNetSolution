@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>LargeScaleSolution.FileSystemLib</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Abstractions\Abstractions.csproj" />
+    <ProjectReference Include="..\..\Core\CommonUtilities\CommonUtilities.csproj" />
+  </ItemGroup>
+</Project>

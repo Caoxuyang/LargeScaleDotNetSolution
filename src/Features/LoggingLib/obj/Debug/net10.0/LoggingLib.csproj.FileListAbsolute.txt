@@ -1,0 +1,15 @@
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\LoggingLib\bin\Debug\net10.0\LoggingLib.deps.json
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\LoggingLib\bin\Debug\net10.0\LoggingLib.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\LoggingLib\bin\Debug\net10.0\LoggingLib.pdb
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\LoggingLib\bin\Debug\net10.0\Abstractions.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\LoggingLib\bin\Debug\net10.0\Abstractions.pdb
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\LoggingLib\obj\Debug\net10.0\LoggingLib.csproj.AssemblyReference.cache
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\LoggingLib\obj\Debug\net10.0\LoggingLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\LoggingLib\obj\Debug\net10.0\LoggingLib.AssemblyInfoInputs.cache
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\LoggingLib\obj\Debug\net10.0\LoggingLib.AssemblyInfo.cs
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\LoggingLib\obj\Debug\net10.0\LoggingLib.csproj.CoreCompileInputs.cache
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\LoggingLib\obj\Debug\net10.0\LoggingLib.csproj.Up2Date
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\LoggingLib\obj\Debug\net10.0\LoggingLib.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\LoggingLib\obj\Debug\net10.0\refint\LoggingLib.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\LoggingLib\obj\Debug\net10.0\LoggingLib.pdb
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\LoggingLib\obj\Debug\net10.0\ref\LoggingLib.dll

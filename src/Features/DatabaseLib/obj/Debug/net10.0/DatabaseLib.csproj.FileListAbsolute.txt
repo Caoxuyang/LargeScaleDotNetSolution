@@ -1,0 +1,17 @@
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\DatabaseLib\bin\Debug\net10.0\DatabaseLib.deps.json
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\DatabaseLib\bin\Debug\net10.0\DatabaseLib.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\DatabaseLib\bin\Debug\net10.0\DatabaseLib.pdb
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\DatabaseLib\bin\Debug\net10.0\Abstractions.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\DatabaseLib\bin\Debug\net10.0\SharedKernel.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\DatabaseLib\bin\Debug\net10.0\Abstractions.pdb
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\DatabaseLib\bin\Debug\net10.0\SharedKernel.pdb
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\DatabaseLib\obj\Debug\net10.0\DatabaseLib.csproj.AssemblyReference.cache
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\DatabaseLib\obj\Debug\net10.0\DatabaseLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\DatabaseLib\obj\Debug\net10.0\DatabaseLib.AssemblyInfoInputs.cache
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\DatabaseLib\obj\Debug\net10.0\DatabaseLib.AssemblyInfo.cs
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\DatabaseLib\obj\Debug\net10.0\DatabaseLib.csproj.CoreCompileInputs.cache
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\DatabaseLib\obj\Debug\net10.0\Database.F6D1D632.Up2Date
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\DatabaseLib\obj\Debug\net10.0\DatabaseLib.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\DatabaseLib\obj\Debug\net10.0\refint\DatabaseLib.dll
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\DatabaseLib\obj\Debug\net10.0\DatabaseLib.pdb
+C:\Users\xuycao\dev\demo\poc\big-solution-demo\TestSolution\src\Features\DatabaseLib\obj\Debug\net10.0\ref\DatabaseLib.dll
